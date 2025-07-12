@@ -1,9 +1,10 @@
-<h1 align="center">Hey 👋 I'm Karthik Kiran S</h1>
-<h3 align="center">Full Stack Dev 🧑‍💻 | Python + Django Lover 🐍 | Dashboard Guy 📊 | Tech Tinkerer 🛠️</h3>
+<h1 align="center">Hi, I'm Karthik Kiran S 👋</h1>
+<h3 align="center">Full Stack Developer | Python & Django Developer 🐍 | Dashboard & API Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Create.+Repeat.;Building+Smart+Dashboards;Simplifying+Complex+Ideas;Living+Life+One+Python+Script+at+a+Time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Building+clean%2C+scalable+web+apps;Creating+data-driven+dashboards;Crafting+robust+backends+with+Django;Focused+on+code+quality+%26+UX" />
 </p>
+
 
 ---
 
